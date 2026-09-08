@@ -11,3 +11,10 @@
 - Add multi-language document support (zh-CN / ja / ko)
 - Build standardized docs directory for internationalization
 - Optimize document navigation and open-source compatibility
+
+## v1.0.2 (Stability Optimization)
+- Fix windows local path compatibility escape issue
+- Optimize global exception tolerance for core running logic
+- Unify multilingual document sentence specification
+- Refine open-source project standard details
+- Improve overall tool operation stability

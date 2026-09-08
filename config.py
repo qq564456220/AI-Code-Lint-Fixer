@@ -20,3 +20,7 @@ AI_FIX_RULES = [
     "Optimize readability and maintainability",
     "Do NOT change original function behavior"
 ]
+
+# Runtime tolerance config (v1.0.2 update)
+SKIP_EMPTY_FILE = True
+IGNORE_SCAN_ERROR = True
