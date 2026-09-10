@@ -18,3 +18,10 @@
 - Unify multilingual document sentence specification
 - Refine open-source project standard details
 - Improve overall tool operation stability
+
+## v1.0.3 (AI Prompt Refinement)
+- Refine AI system prompt structure
+- Split detailed code repair check rules
+- Enhance accuracy of large-file full refactoring
+- Better utilize ChatGPT Pro large context capability
+- Optimize comment generation and code style unification logic

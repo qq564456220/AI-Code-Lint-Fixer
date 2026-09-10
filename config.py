@@ -24,3 +24,7 @@ AI_FIX_RULES = [
 # Runtime tolerance config (v1.0.2 update)
 SKIP_EMPTY_FILE = True
 IGNORE_SCAN_ERROR = True
+
+# AI Prompt optimization switch (v1.0.3 update)
+ENABLE_DETAIL_RULE_CHECK = True
+STRICT_CODE_STYLE_UNIFY = True
